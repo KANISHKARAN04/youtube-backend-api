@@ -289,7 +289,6 @@ Optimizations include:
 
 # Author
 KANISHKARAN K
-Developed as a **backend engineering project** demonstrating scalable API architecture using Node.js and MongoDB.
 
 ---
 
