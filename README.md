@@ -288,11 +288,11 @@ Optimizations include:
 ---
 
 # Author
-
+KANISHKARAN K
 Developed as a **backend engineering project** demonstrating scalable API architecture using Node.js and MongoDB.
 
 ---
 
 # License
 
-This project is licensed under the MIT License.
+This project is licensed under the ISC License.
